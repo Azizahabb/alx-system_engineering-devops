@@ -1,3 +1,2 @@
-#!/bin/bash 
-touch '\*\\'\''Best School'\''\\*$?********:)' # echo "Best School" >> '\*\\'\''Best School'\''\\*$?********:)' # adds "Best School" to file
-echo "" >> '\*\\'\''Best School'\''\\*$?********:)' 
+#!/bin/bash
+echo "Best school" > \\\*\\\\'"\Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:\)
